@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51fd4e58dbcb0644da6e0fd3c5a94860
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arCam: {fileID: 4330659295347141698, guid: f81211ae4c8ad1d4287aa3ea394cea22, type: 3}
+  - _raycastManager: {fileID: 9143344122301888703, guid: 89f434c21b06ab045be2155ccf826bd3, type: 3}
+  - crosshair: {fileID: 7976018196328915179, guid: 19e705658f8f1534a88a7badaa99679b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
